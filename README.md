@@ -71,7 +71,7 @@ Demo will allow:
 3. Getting an auto-generated answer sheet
 
 ## 👨‍💻 Team
-Team Name: **# StudySync AI 📚🤖
+Team Name: MindMate
 *Your Personal AI Study Assistant*
 
 ## 🚀 Problem Statement
